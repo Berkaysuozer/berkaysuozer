@@ -14,8 +14,10 @@ Here are some ideas to get you started:
 
 
 
-[<img align="left"  | Twitter" width="22px" src="https://twitter.com/kkkerchief" />][twitter]
-[<img align="left" | LinkedIn" width="22px" src="https://www.linkedin.com/in/berkay-%C5%9Fu%C3%B6zer-4b3733183/" />][linkedin]
-[<img align="left"  | Instagram" width="22px" src="https://instagram.com/berkaysuozer" />][instagram]
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
