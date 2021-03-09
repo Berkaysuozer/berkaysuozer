@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 
 
-<img align="left" alt="kerchief | Twitter" width="22px" src="https://twitter.com/kkkerchief" />
+<img align="left" alt="kerchief | Twitter" width="22px" src="" />
 <img align="left" alt="kerchief | LinkedIn" width="22px" src="https://www.linkedin.com/in/berkay-%C5%9Fu%C3%B6zer-4b3733183/" />
 <img align="left" alt="kerchief | Instagram" width="22px" src="https://instagram.com/berkaysuozer" />
 
