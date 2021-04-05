@@ -2,11 +2,7 @@
 
 ### Hi there, I'm Berkay - aka [kerchief]
 
-- 🔭 I’m currently working on Frontend .
-- 🌱 I’m currently learning Javascript , ReactJS
-- 👯 I’m looking to collaborate on  with other content creators
-- 📫 How to reach me: berkaysuozer@gmail.com
-- ⚡ Fun fact: I am good at moba games 🤣
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
