@@ -15,6 +15,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=berkaysuozer&show_icons=true&theme=dark&locale=en" alt="kerchief" width="50%" /></p>
 <br>
 
-<center> ![trophy](https://github-profile-trophy.vercel.app/?username=berkaysuozer&theme=dark) </center>
-<br>
 
